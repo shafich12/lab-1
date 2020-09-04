@@ -6,7 +6,6 @@ vs code version info
 git version 2.28.0
 git user name
 shafich12
-git user email
 node version
 v12.18.3
 npm version
