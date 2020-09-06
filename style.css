@@ -4,6 +4,9 @@
     overflow: hidden;
   }
   
+p, h1, h2, h3, li, a{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    }
   /* Style the links inside the navigation bar */
   .topnav a {
     float: left;
