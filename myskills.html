@@ -13,7 +13,17 @@
     <head>
         <meta charset="utf-8">
         <link rel="stylesheet" href="style.css">
-
+        
+        <script>
+            function myFunction() {
+              var x = document.getElementById("myDIV");
+              if (x.style.display === "none") {
+                x.style.display = "block";
+              } else {
+                x.style.display = "none";
+              }
+            }
+            </script>
 
 </head>
 <body>
@@ -56,16 +66,6 @@
     </table>
 </div>
 
-<script>
-    function myFunction() {
-      var x = document.getElementById("myDIV");
-      if (x.style.display === "none") {
-        x.style.display = "block";
-      } else {
-        x.style.display = "none";
-      }
-    }
-    </script>
     
 </body>
 <br>
